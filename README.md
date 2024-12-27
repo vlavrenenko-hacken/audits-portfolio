@@ -1,6 +1,6 @@
 # AUDITS-PORTFOLIO
 
-1) A list of my completed public audits at Hacken:
+1) A list of my completed public Solidity and Vyper audits at Hacken:
   - [SCA Zharta / Vault / Nov2023] (https://audits.hacken.io/zharta/sca-zharta-vault-nov2023/) - Zharta is a platform that provides instant loans & renting services using NFTs as collateral, enabling NFT holders to get liquidity & yield without having to sell their NFTs.
   - [SCA Electroneum / ETNbridge / Dec2023] (https://audits.hacken.io/electroneum/sca-electroneum-etnbridge-dec2023/) - ETNBridge is a one-way bridge that was created to migrate all users' balances from a Monero-based chain to an Ethereum-based chain.
   - [SCA Midas / Vault / Dec2023] (https://audits.hacken.io/midas/sca-midas-vault-dec2023/) - The Midas Project consists of a couple of vaults: the first one is used for deposits and the other one is used for redemption.  The system allows users to mint mTBILL stablecoins by putting their USD-like stablecoins as collateral.
