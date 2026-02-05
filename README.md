@@ -21,3 +21,6 @@
   - [SCA SalaamGCC / Salaamgcc-Contracts / Feb2025] - (https://hacken.io/audits/salaamgcc/sca-salaamgcc-salaamgcc-contracts-feb2025/) - a staking protocol  responsible for staking and distribution of rewards tokens.
   - [SCA Messiah Network / Messiah-Token / Jul2025] - (https://hacken.io/audits/messiah-network/sca-messiah-network-messiah-token-jul2025/) - an AI-powered web3 infrastructure platform that simplifies and democratizes access to decentralized technologies.
   - [SCA RAIN / Token / Aug2025] - is a decentralized options protocol on Arbitrum that allows anyone to create and trade custom options on any market. It is fully permissionless, AI-resolved, and governed by the $RAIN token with a built-in Buyback & Burn mechanism.
+
+2) A list of my completed Proof Of Reserves audits at Hacken:
+<TODO>
