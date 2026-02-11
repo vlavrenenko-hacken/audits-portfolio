@@ -23,4 +23,10 @@
   - [SCA RAIN / Token / Aug2025] - is a decentralized options protocol on Arbitrum that allows anyone to create and trade custom options on any market. It is fully permissionless, AI-resolved, and governed by the $RAIN token with a built-in Buyback & Burn mechanism.
 
 2) A list of my completed Proof Of Reserves audits at Hacken:
-<TODO>
+- [Bybit / CEX / Jan2026] - (https://hacken.io/audits/bybit/por-bybit-recurrent-jan2026/)
+- [MEXC / CEX / Jan2026] - (https://hacken.io/audits/mexc/por-mexc-solvency-proof-jan2026/)
+- [OKX / CEX / DEC2025] - (https://hacken.io/audits/okx/por-okx-recurrent-dec2025/)
+- [OKX / CEX / NOV2025] - (https://hacken.io/audits/okx/por-okx-recurrent-nov2025/)
+- [KuCoin / CEX / FEB2026] - (https://hacken.io/audits/kucoin/por-kucoin-solvency-proof-feb2026/)
+
+
